@@ -1,6 +1,6 @@
 # BigFatInteger
 
-作者 : 翁伊嘉
+作者 : HalfSummer11
 
 关键词 : 简单数论(?) 快速幂(?)
 
